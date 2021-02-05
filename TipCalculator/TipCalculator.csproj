@@ -52,6 +52,7 @@
     <Compile Include="CalculateTip.Designer.cs">
       <DependentUpon>CalculateTip.cs</DependentUpon>
     </Compile>
+    <Compile Include="ButtonWrapper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="CalculateTip.resx">
